@@ -1793,7 +1793,7 @@ input, select, textarea {
 			color: #777;
 			font-size: 1.75em;
 			font-weight: 700;
-			margin-top: -0.75em;
+			margin-top: 1em;
 		}
 
 /* Form */
@@ -2665,7 +2665,6 @@ input, select, textarea {
 
 		.features article .image {
 			display: inline-block;
-			padding-right: 2.5em;
 			vertical-align: middle;
 			width: 48%;
 		}
@@ -3314,3 +3313,7 @@ input, select, textarea {
 			}
 
 	}
+
+.text{
+	margin: 0;
+}
